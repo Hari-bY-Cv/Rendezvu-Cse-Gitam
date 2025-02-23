@@ -1,0 +1,8 @@
+{
+  "variant": "vibrant",
+  "primary": "hsl(265, 84%, 50%)",
+  "secondary": "hsl(180, 70%, 35%)",  
+  "accent": "hsl(34, 40%, 80%)",      
+  "appearance": "dark",
+  "radius": 1.5
+}

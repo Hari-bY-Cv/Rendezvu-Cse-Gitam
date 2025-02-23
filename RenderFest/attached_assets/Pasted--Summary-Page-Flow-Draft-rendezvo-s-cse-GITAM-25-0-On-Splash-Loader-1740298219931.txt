@@ -1,0 +1,84 @@
+**Summary:**
+
+**🌟 Page Flow Draft — *rendezvoûs_cse @ GITAM'25***  
+
+---
+
+### **0. On-Splash Loader (Kinetic Animated Intro 🚀):**  
+- **Loading Animation:** Futuristic glitch effects with neon highlights.  
+- **Dynamic Countdown:** Visible if close to the event date.  
+- **CTA:** Auto-redirects to the Homepage.  
+
+---
+
+### **1. Homepage (Landing):**  
+- **Hero Section:** Event name, date, holographic-styled logo.  
+- **Primary CTAs:**  
+  - 📝 **Register / Sign In** — leads to Auth page.  
+  - 🔍 **Explore Events** — guest mode view of the dashboard.  
+- **Scrolling Highlights:**  
+  - 🚀 *Tech Events* — Hackathons, AI team matcher, leaderboards.  
+  - 🔥 *Combinational Pass Benefits* — showcasing pass bundles.  
+  - 📍 *Venue Preview* — interactive campus event map.  
+- **Footer:** Socials, sponsors, and support links.  
+
+---
+
+### **2. Registration & Authentication Page:**  
+- **Modes:** Toggle between **Sign In** / **Sign Up**.  
+- **Quick Auth:** Google, LinkedIn, GitHub.  
+- **Standard Fields:** Name, email, phone, college, and skillset (for AI matching).  
+- **Pass Preview:** Mini carousel showcasing pass options.  
+- **Security:** Captcha checks.  
+- **Auto-Redirect:** To the dashboard post-login.  
+
+---
+
+### **3. Dashboard & Event Pages:**  
+- **User Greeting:** Personalized dashboard.  
+- **Animated Event Cards:** Hackathons, Webinars, Workshops, and Fun Events.  
+- **Pass Selector:** Interactive options for all-access or custom event passes.  
+- **AI Event Suggestions:** Recommendations based on user interests and skills.  
+- **Live Widgets:** Leaderboards, announcements, countdown timers.  
+
+---
+
+### **4. Pass Cart & QR Ticketing System 🎫:**  
+- **Pass Selection UI:**  
+  - *All-Access* vs *Custom Pass* toggle.  
+  - Mix and match event passes, with bundle discounts.  
+- **QR Code Generation:** Instant QR ticket creation post-payment.  
+- **Checkout Animation:** Dynamic confirmation screen showing pass details.  
+
+---
+
+### **5. Team Dashboard:**  
+- **Team Status:** Overview of hackathon and event-based teams.  
+- **AI Team Matcher:** Suggests teammates based on skills.  
+- **Live Chat & Collab:** Real-time space for team communication.  
+- **Progress Bar:** Tracks team completion status.  
+- **Quick Links:** To registered events and live sessions.  
+
+---
+
+### **6. Profile Page & Forum Section:**  
+- **User Profile:** Customizable avatars and bios.  
+- **Achievements:** Gamified badges for early signups, social shares, and event attendance.  
+- **Forum:** Thread-based discussions for event Q&A, team hunts, etc.  
+- **Certificates:** Downloadable e-certificates post-event.  
+
+---
+
+### **7. 404 Page — Retro Arcade 🎮:**  
+- **Animations:** Glitchy error messages.  
+- **Mini-Games:**  
+  - *Cyberpunk Dino Game* (Chrome-inspired).  
+  - *Snake Xenzia* with neon grids.  
+- **Secret Leaderboard:** Hidden score rankings for fun.  
+- **CTAs:**  
+  - **Play Again** — keeps users entertained.  
+  - **Back to Home** — returns to the Homepage.  
+
+---
+
+This flow captures a bold, futuristic vibe with seamless navigation, dynamic interactivity, and smooth user experiences — all while keeping the retro-tech theme alive. Perfect for *Rendezvous_cse @ GITAM'25*! 🌐
